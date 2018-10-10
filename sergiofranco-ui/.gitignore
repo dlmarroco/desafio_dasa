@@ -1,4 +1,5 @@
 observacoes
 log/*.html
 log/*.json
+log/.DS_Store
 log/screenshots
