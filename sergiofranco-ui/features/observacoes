@@ -3,3 +3,20 @@ SUGERIR CRIACAO DE UMA MSG
 PARA QUANDO NAO ENCONTRA EXAME NA BUSCA
 > mais intuitivo para usuário
 > mais assertivo no momento da validaçao da automacao
+
+
+Dentro da raiz do projeto:
+-- git init {inicializar git no diretorio}
+-- git remote add <endereço do seu repositório no github> "para vincular diretorio local ao repositorio remoto"
+-- git merge origin/master --allow-unrelated-histories "comando para fazer merge de conteudo entre repositório e diretorio local
+-- CRIACAO do arquivo .gitignore "para listar quais arquivos/diretorios não quer enviar para o repositório"
+-- git add . "para adicionar todos os arquivos/pastas para commit"
+-- git commit -m "coments" "comando para comitar alterações, neste ponto é necessario informar um comentario obrigatório""
+-- git push origin master "comando para publicas o commit no github.
+
+-- criar o arquivo Jenkinsfile
+
+Dentro da pasta log
+-- criar o arquivo .gitkeep para informar ao git que deve enviar a pasta log vazia ao github
+
+
